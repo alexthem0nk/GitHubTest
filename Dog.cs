@@ -1,9 +1,9 @@
 /* 
 	File name: 	Dog.cs
 	Purpose:	Class to describe pet dog used for a vet practice
-	Author:		Hans Telford
-	Date:		01-Nov-2022
-	Version:	1.0
+	Author:		Alex Lencucha
+	Date:		01-DEC-2022
+	Version:	1.1
 	Notes:
 	
 */
