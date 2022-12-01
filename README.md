@@ -1,4 +1,5 @@
 # Dog class and Dog test read me
+# Author: Alex Lencucha
 Data:
 string name (owner's name for the dog)
 string type (e.g. Bulldog, Collie, Fox Terrier)
