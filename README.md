@@ -1,6 +1,9 @@
 # Dog class and Dog test read me
 # Author: Alex Lencucha
+<<<<<<< HEAD
 # Date: 01-Dec-2022
+=======
+>>>>>>> 950e076ad3329d6315698e2f1613e124f307347d
 Data:
 string name (owner's name for the dog)
 string type (e.g. Bulldog, Collie, Fox Terrier)
